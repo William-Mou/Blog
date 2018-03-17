@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: William Mou's Blog
 subtitle:
-description:
-author: John Doe
+description: 這裡是跳坑的紀錄~如果有任何坑是你有興趣加入的，都歡迎以任何方式聯絡我唷~
+author: William Mou
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://william-mou.github.io/
 root: /
-permalink: :year/:month/:day/:title/
-permalink_defaults:
+permalink: :category/:title/
+permalink_defaults: 
 
 # Directory
 source_dir: source
